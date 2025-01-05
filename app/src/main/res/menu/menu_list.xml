@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_gonotes"
+        android:title="GoNotes"/>
+    <item
+        android:id="@+id/action_pengingat"
+        android:title="Pengingat"/>
+    <item
+        android:id="@+id/action_label"
+        android:title="Label"/>
+    <item
+        android:id="@+id/action_arsip"
+        android:title="Arsip"/>
+    <item
+        android:id="@+id/action_sampah"
+        android:title="Sampah"/>
+    <item
+        android:id="@+id/action_pengaturan"
+        android:title="Pengaturan"/>
+</menu>
